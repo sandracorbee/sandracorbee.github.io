@@ -1,2 +1,6 @@
-name: Sandra Corbee
-markdown: kramdown
+name: Corbeetje.NL
+description: Corbeetje.NL
+author: Sandra Corbee
+baseurl:
+url: http://corbeetje.nl/
+markdown: rdiscount
