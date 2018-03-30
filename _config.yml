@@ -1,6 +1,22 @@
+---
+version: 1.0
 name: Corbeetje.NL
 description: Corbeetje.NL
-author: Sandra Corbee
-baseurl:
 url: http://corbeetje.nl/
-markdown: rdiscount
+timezone: Europe/Amsterdam
+logo: "/img/logo.png"
+
+google_analytics_id: UA-xxxxxxxx-x
+google_site_verification: 
+
+plugins:
+- jekyll-redirect-from
+
+sass:
+  style: compressed
+
+exclude:
+- ".gitignore"
+- CNAME
+- icomoon-selection.json
+- readme.md
