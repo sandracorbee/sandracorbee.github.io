@@ -4,13 +4,9 @@ name: Corbeetje.NL
 description: Corbeetje.NL
 url: http://corbeetje.nl/
 timezone: Europe/Amsterdam
-logo: "/img/logo.png"
 
 google_analytics_id: UA-xxxxxxxx-x
 google_site_verification: 
-
-plugins:
-- jekyll-redirect-from
 
 sass:
   style: compressed
@@ -18,5 +14,4 @@ sass:
 exclude:
 - ".gitignore"
 - CNAME
-- icomoon-selection.json
 - readme.md
